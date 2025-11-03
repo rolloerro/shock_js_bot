@@ -1,1 +1,2 @@
 echo ".env\nnode_modules\n.DS_Store\n*.log\n" > .gitignore
+.env
